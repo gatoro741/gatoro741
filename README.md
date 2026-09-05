@@ -1,12 +1,12 @@
-### gatoro741
+![gatoro741 — Backend & Infrastructure](assets/header.svg)
 
 Пишу бэкенд на Go, занимаюсь инфраструктурой.
 
-`Go` · `PostgreSQL` · `Docker` · `Python`
+<p><img src="assets/stack.svg" alt="Go · PostgreSQL · Docker · Python" width="490" /></p>
 
----
+<br />
 
-### [Leasing Platform ↗](https://github.com/gatoro741/leasing-platform-case-study)
+[![Leasing Platform — рабочий проект, обзор архитектуры](assets/leasing-card.svg)](https://github.com/gatoro741/leasing-platform-case-study)
 
 Внутренняя система компании для обработки лизинговых заявок и документов.
 Отвечаю за её бэкенд и инфраструктуру.
