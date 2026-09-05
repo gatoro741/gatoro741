@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="128" viewBox="0 0 1100 128" fill="none" role="img" aria-labelledby="title">
   <title id="title">Leasing Platform — рабочий проект, обзор архитектуры</title>
-  <rect x="1" y="1" width="1098" height="126" rx="12" fill="#0F252D" stroke="#28505A"/>
+  <path d="M20 4H1072L1096 28V108L1080 124H28L4 100V20Z" fill="#0F252D" stroke="#415C67" stroke-width="1.5"/>
+  <path d="M24 12H1068L1088 32V104L1076 116H32L12 96V24Z" stroke="#1E3C46"/>
+  <path d="M4 49V20L20 4H156" stroke="#5EEAD4" stroke-width="2.5"/>
+  <path d="M1096 79V108L1080 124H978" stroke="#2DD4BF" stroke-width="2.5"/>
+  <path d="M176 4H213M221 4H236" stroke="#2DD4BF" stroke-width="2.5"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-    <text x="32" y="39" fill="#5EEAD4" font-size="15">РАБОЧИЙ ПРОЕКТ</text>
-    <text x="30" y="88" fill="#F0FDFA" font-size="35" font-weight="600">Leasing Platform</text>
+    <text x="34" y="42" fill="#5EEAD4" font-size="15">РАБОЧИЙ ПРОЕКТ</text>
+    <text x="32" y="89" fill="#F0FDFA" font-size="35" font-weight="600">Leasing Platform</text>
     <text x="1009" y="77" text-anchor="end" fill="#99C7C7" font-size="19">Архитектура</text>
   </g>
   <path d="M1035 80L1060 55M1039 55H1060V76" stroke="#5EEAD4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>

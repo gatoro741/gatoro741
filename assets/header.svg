@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" fill="none" role="img" aria-labelledby="title">
   <title id="title">gatoro741 — Backend &amp; Infrastructure</title>
-  <defs><clipPath id="clip"><rect width="1100" height="220" rx="16"/></clipPath></defs>
+  <defs><clipPath id="clip"><path d="M24 4H1052L1096 48V196L1076 216H24L4 196V24Z"/></clipPath></defs>
   <g clip-path="url(#clip)">
     <rect width="1100" height="220" fill="#0F172A"/>
-    <rect width="6" height="220" fill="#2DD4BF"/>
     <path d="M750 0V220M806 0V220M862 0V220M918 0V220M974 0V220M1030 0V220M1086 0V220M750 54H1100M750 110H1100M750 166H1100" stroke="#1E293B"/>
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
       <text x="44" y="102" fill="#F8FAFC" font-size="62" font-weight="700">gatoro741<tspan fill="#2DD4BF">.</tspan></text>
@@ -18,4 +17,14 @@
     <circle cx="861" cy="56" r="3" fill="#0F766E"/>
     <circle cx="872" cy="56" r="3" fill="#0F766E"/>
   </g>
+  <path d="M24 4H1052L1096 48V196L1076 216H24L4 196V24Z" stroke="#415568" stroke-width="1.5"/>
+  <path d="M28 14H1048L1086 52V192L1072 206H28L14 192V28Z" stroke="#24384A"/>
+  <path d="M4 80V24L24 4H152" stroke="#5EEAD4" stroke-width="3"/>
+  <path d="M1052 4L1096 48V83" stroke="#60A5FA" stroke-width="3"/>
+  <path d="M1096 156V196L1076 216H934" stroke="#2DD4BF" stroke-width="3"/>
+  <path d="M4 168V196L24 216H80" stroke="#64748B" stroke-width="3"/>
+  <path d="M176 4H222M230 4H250" stroke="#2DD4BF" stroke-width="3"/>
+  <rect x="426" y="204" width="247" height="16" fill="#0F172A"/>
+  <path d="M435 214H458M464 214H475M624 214H635M641 214H664" stroke="#476174"/>
+  <text x="550" y="217" text-anchor="middle" fill="#7E96A9" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="12">g / 741</text>
 </svg>
