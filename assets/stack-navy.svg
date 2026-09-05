@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="44" viewBox="0 0 560 44" role="img" aria-labelledby="title">
   <title id="title">Go, PostgreSQL, Docker, Python</title>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="600">
-    <rect x="1" y="1" width="83" height="42" rx="8" fill="#083344" stroke="#155E75"/><circle cx="21" cy="22" r="4" fill="#22D3EE"/><text x="36" y="28" fill="#A5F3FC">Go</text>
+    <rect x="1" y="1" width="83" height="42" rx="8" fill="#152B4E" stroke="#34568B"/><circle cx="21" cy="22" r="4" fill="#7BA7EF"/><text x="36" y="28" fill="#C4D8FA">Go</text>
     <rect x="94" y="1" width="174" height="42" rx="8" fill="#172554" stroke="#1E40AF"/><circle cx="114" cy="22" r="4" fill="#60A5FA"/><text x="129" y="28" fill="#BFDBFE">PostgreSQL</text>
-    <rect x="278" y="1" width="132" height="42" rx="8" fill="#0C4A6E" stroke="#0369A1"/><circle cx="298" cy="22" r="4" fill="#38BDF8"/><text x="313" y="28" fill="#BAE6FD">Docker</text>
+    <rect x="278" y="1" width="132" height="42" rx="8" fill="#17365C" stroke="#315F95"/><circle cx="298" cy="22" r="4" fill="#6A9FE5"/><text x="313" y="28" fill="#BED3F2">Docker</text>
     <rect x="420" y="1" width="139" height="42" rx="8" fill="#422006" stroke="#854D0E"/><circle cx="440" cy="22" r="4" fill="#FACC15"/><text x="455" y="28" fill="#FEF08A">Python</text>
   </g>
 </svg>

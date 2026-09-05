@@ -5,25 +5,25 @@
     <rect width="1100" height="220" fill="#0F172A"/>
     <path d="M750 0V220M806 0V220M862 0V220M918 0V220M974 0V220M1030 0V220M1086 0V220M750 54H1100M750 110H1100M750 166H1100" stroke="#1E293B"/>
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-      <text x="44" y="102" fill="#F8FAFC" font-size="62" font-weight="700">gatoro741<tspan fill="#2DD4BF">.</tspan></text>
+      <text x="44" y="102" fill="#F8FAFC" font-size="62" font-weight="700">gatoro741<tspan fill="#416DB9">.</tspan></text>
       <text x="47" y="148" fill="#94A3B8" font-size="23">Backend &amp; Infrastructure</text>
     </g>
     <path d="M700 110H766M766 110V55H828M766 110V165H828" stroke="#334155" stroke-width="2"/>
-    <circle cx="766" cy="110" r="5" fill="#2DD4BF"/>
+    <circle cx="766" cy="110" r="5" fill="#416DB9"/>
     <rect x="842" y="49" width="186" height="130" rx="14" fill="#172554" stroke="#3B82F6"/>
-    <rect x="828" y="35" width="186" height="130" rx="14" fill="#134E4A" stroke="#2DD4BF"/>
-    <text x="921" y="120" text-anchor="middle" fill="#5EEAD4" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="65" font-weight="700">Go</text>
-    <circle cx="850" cy="56" r="3" fill="#2DD4BF"/>
-    <circle cx="861" cy="56" r="3" fill="#0F766E"/>
-    <circle cx="872" cy="56" r="3" fill="#0F766E"/>
+    <rect x="828" y="35" width="186" height="130" rx="14" fill="#142C56" stroke="#416DB9"/>
+    <text x="921" y="120" text-anchor="middle" fill="#91B8F5" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="65" font-weight="700">Go</text>
+    <circle cx="850" cy="56" r="3" fill="#416DB9"/>
+    <circle cx="861" cy="56" r="3" fill="#2B4877"/>
+    <circle cx="872" cy="56" r="3" fill="#2B4877"/>
   </g>
   <path d="M24 4H1052L1096 48V196L1076 216H24L4 196V24Z" stroke="#415568" stroke-width="1.5"/>
   <path d="M28 14H1048L1086 52V192L1072 206H28L14 192V28Z" stroke="#24384A"/>
-  <path d="M4 80V24L24 4H152" stroke="#5EEAD4" stroke-width="3"/>
+  <path d="M4 80V24L24 4H152" stroke="#91B8F5" stroke-width="3"/>
   <path d="M1052 4L1096 48V83" stroke="#60A5FA" stroke-width="3"/>
-  <path d="M1096 156V196L1076 216H934" stroke="#2DD4BF" stroke-width="3"/>
+  <path d="M1096 156V196L1076 216H934" stroke="#416DB9" stroke-width="3"/>
   <path d="M4 168V196L24 216H80" stroke="#64748B" stroke-width="3"/>
-  <path d="M176 4H222M230 4H250" stroke="#2DD4BF" stroke-width="3"/>
+  <path d="M176 4H222M230 4H250" stroke="#416DB9" stroke-width="3"/>
   <rect x="426" y="204" width="247" height="16" fill="#0F172A"/>
   <path d="M435 214H458M464 214H475M624 214H635M641 214H664" stroke="#476174"/>
   <text x="550" y="217" text-anchor="middle" fill="#7E96A9" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="12">g / 741</text>

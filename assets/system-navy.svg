@@ -6,10 +6,10 @@
   <path d="M24 16H1076L1096 36V108L1076 128H24L4 108V36Z" fill="url(#dots)"/>
   <path d="M4 48V36L24 16H62M1038 16H1076L1096 36V48M4 96V108L24 128H62M1038 128H1076L1096 108V96" stroke="#30495B"/>
 
-  <path d="M238 76H408L434 50H477M627 50H663L689 76H850" stroke="#2D5363" stroke-width="1.5"/>
+  <path d="M238 76H408L434 50H477M627 50H663L689 76H850" stroke="#30486F" stroke-width="1.5"/>
   <path d="M238 88H417L443 62H477M627 62H657L683 88H850" stroke="#1F3648" stroke-width="1.5"/>
-  <path d="M283 76H330M737 76H785" stroke="#2DD4BF" stroke-width="2"/>
-  <circle cx="353" cy="76" r="3.5" fill="#5EEAD4"/>
+  <path d="M283 76H330M737 76H785" stroke="#416DB9" stroke-width="2"/>
+  <circle cx="353" cy="76" r="3.5" fill="#91B8F5"/>
   <circle cx="716" cy="76" r="3.5" fill="#60A5FA"/>
 
   <ellipse cx="184" cy="113" rx="73" ry="10" fill="#070E18"/>
@@ -17,18 +17,18 @@
   <path d="M112 34L197 20L237 38V90L152 105L112 85Z" fill="#172B40" stroke="#47718B"/>
   <path d="M112 34L152 54L237 38M152 54V105" stroke="#47718B"/>
   <path d="M121 46L141 56M121 56L141 66M121 66L133 72" stroke="#3A546C" stroke-width="2"/>
-  <path d="M168 68L177 60M168 68L177 73M211 60L201 55M211 60L201 69M191 57L185 74" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M168 68L177 60M168 68L177 73M211 60L201 55M211 60L201 69M191 57L185 74" stroke="#91B8F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 
   <ellipse cx="551" cy="119" rx="89" ry="11" fill="#070E18"/>
   <path d="M476 94L551 60L626 94L551 129Z" fill="#112139" stroke="#345575"/>
-  <path d="M476 78L551 44L626 78V91L551 125L476 91Z" fill="#102C35" stroke="#28616D"/>
-  <path d="M476 78L551 112L626 78M551 112V125" stroke="#28616D"/>
-  <path d="M476 59L551 25L626 59V72L551 106L476 72Z" fill="#12383E" stroke="#398E92"/>
-  <path d="M476 59L551 93L626 59M551 93V106" stroke="#398E92"/>
-  <path d="M476 40L551 6L626 40L551 74Z" fill="#164E50" stroke="#5EEAD4" stroke-width="1.5"/>
-  <path d="M510 40L551 22L592 40L551 58Z" fill="#10353D" stroke="#2CA99B"/>
-  <path d="M533 40L551 32L569 40L551 48Z" fill="#5EEAD4"/>
-  <path d="M483 51L496 57M483 70L496 76M483 89L496 95" stroke="#5EEAD4" stroke-width="2"/>
+  <path d="M476 78L551 44L626 78V91L551 125L476 91Z" fill="#13233C" stroke="#324C75"/>
+  <path d="M476 78L551 112L626 78M551 112V125" stroke="#324C75"/>
+  <path d="M476 59L551 25L626 59V72L551 106L476 72Z" fill="#172D4F" stroke="#4C6B99"/>
+  <path d="M476 59L551 93L626 59M551 93V106" stroke="#4C6B99"/>
+  <path d="M476 40L551 6L626 40L551 74Z" fill="#213D69" stroke="#91B8F5" stroke-width="1.5"/>
+  <path d="M510 40L551 22L592 40L551 58Z" fill="#162D50" stroke="#4F78BA"/>
+  <path d="M533 40L551 32L569 40L551 48Z" fill="#91B8F5"/>
+  <path d="M483 51L496 57M483 70L496 76M483 89L496 95" stroke="#91B8F5" stroke-width="2"/>
 
   <ellipse cx="910" cy="118" rx="67" ry="10" fill="#070E18"/>
   <path d="M852 77V101C852 112 878 121 910 121C942 121 968 112 968 101V77Z" fill="#132239" stroke="#355275"/>
