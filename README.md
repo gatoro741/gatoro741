@@ -4,7 +4,7 @@
 
 <p><img src="assets/stack.svg" alt="Go · PostgreSQL · Docker · Python" width="490" /></p>
 
-<br />
+<img src="assets/system-strip.svg" alt="" width="1100" />
 
 [![Leasing Platform — рабочий проект, обзор архитектуры](assets/leasing-frame.svg)](https://github.com/gatoro741/leasing-platform-case-study)
 
