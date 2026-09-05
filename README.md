@@ -6,7 +6,7 @@
 
 <img src="assets/system-strip.svg" alt="" width="1100" />
 
-[![Leasing Platform — рабочий проект, обзор архитектуры](assets/leasing-frame.svg)](https://github.com/gatoro741/leasing-platform-case-study)
+[![Leasing Platform — рабочий проект, обзор архитектуры](assets/leasing-frame.svg)](https://github.com/gatoro741/leasing-platform-overview)
 
 Внутренняя система компании для обработки лизинговых заявок и документов.
 Отвечаю за её бэкенд и инфраструктуру.
